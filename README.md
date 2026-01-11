@@ -1,74 +1,151 @@
-# TruthCrew
+🛡️ TruthCrew
 
-TruthCrew helps you verify news claims and stop the spread of misinformation. Check any viral message before sharing.
+Awareness before amplification.
 
-## Project Overview
+TruthCrew is a frontend-focused, AI-assisted misinformation awareness platform designed to help users pause, think, and verify information before sharing it—especially during sensitive and high-impact situations.
 
-TruthCrew is a fact-checking platform designed to combat misinformation in India. It encourages people to pause, think, and verify before sharing news or viral messages.
+रुकें। सोचें। जाँचें।
 
-## Technologies
+🚀 Overview
 
-This project is built with:
+In today’s fast-moving digital world, misinformation spreads faster than verified facts. During emergencies or viral moments, unverified news and AI-generated images can cause panic, confusion, and real-world harm.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-- React Router
+TruthCrew addresses this problem by providing a calm, ethical, and user-centric verification experience.
+The platform does not claim to determine absolute truth. Instead, it assists users by presenting verification status, contextual explanations, and visual indicators to support responsible decision-making.
 
-## Getting Started
+🎯 Hackathon Details
 
-### Prerequisites
+Hackathon: Frontend Development using AI 2026
 
-- Node.js (v18 or higher)
-- npm or yarn
+Organized by: YS Innovation Hub
 
-### Installation
+Track: SDG 16 – Peace, Justice & Strong Institutions
 
-```sh
-# Install dependencies
-npm install
+Team Size: 1–2 Members
 
-# Start development server
-npm run dev
+Category: Frontend-heavy AI-assisted application
 
-# Build for production
-npm run build
+✨ Key Features
+🔍 News Claim Analysis
 
-# Preview production build
-npm run preview
-```
+Users can enter a news headline or viral message and receive one of three assistive outcomes:
 
-## Deployment
+Verified Information
 
-This project can be deployed to Vercel, Netlify, or any static hosting service.
+Misleading Information
 
-### Deploy to Vercel
+Not Yet Verified
 
-1. Push your code to a Git repository
-2. Import the project in Vercel
-3. Vercel will automatically detect Vite and configure the build settings
+Each outcome includes:
 
-## Project Structure
+Clear status badge
 
-```
-src/
-  ├── components/     # Reusable React components
-  ├── pages/         # Page components
-  ├── hooks/         # Custom React hooks
-  ├── lib/           # Utility functions
-  └── assets/        # Static assets
-```
+Calm explanation
 
-## Features
+Simulated search activity
 
-- News claim verification
-- Image analysis
-- Multi-language support (English, Hindi, Marathi)
-- Interactive India map visualization
-- Real-time misinformation tracking
+Responsible guidance
 
-## License
+🌐 Multi-Language Support
 
-This project is created for hackathon submission.
+English
+
+हिंदी (Hindi)
+
+मराठी (Marathi)
+
+Language content appears only when selected, keeping the interface clean and focused.
+
+🖼️ Image Analysis (AI-Generated Content Awareness)
+
+Users can upload an image to understand whether it may be AI-generated.
+
+The system:
+
+Describes what the image appears to show
+
+Highlights common AI-generated visual patterns
+
+Responsibly indicates likely AI generation
+
+Encourages verification before sharing
+
+🗺️ Misinformation Spread Visualization
+
+Interactive India map visualizations show how misinformation spreads geographically:
+
+Home Page: Overall spread across India
+
+Analyze Page: Location-specific discussion intensity
+
+🧠 Role of AI
+
+AI is used in an assistive and explainable manner, not as an authority.
+
+TruthCrew demonstrates how AI concepts can:
+
+Simulate verification workflows
+
+Explain risks and patterns
+
+Support informed human decisions
+
+🛠️ Tech Stack
+
+Frontend: React (JavaScript)
+
+Styling: Tailwind CSS
+
+Architecture: Frontend-only
+
+Logic: Deterministic AI-assisted mock workflows
+
+🤖 AI Tools Used
+
+ChatGPT – AI-assisted system design, content structuring, and multi-language explanations
+
+Gemini AI – Sample AI-generated images for misinformation awareness
+
+AI-Assisted Mock Intelligence Layer – Frontend simulation of verification logic
+
+AI tools were used to assist awareness and explainability, not to make automated truth decisions.
+
+🌍 SDG 16 Alignment
+
+TruthCrew supports SDG 16 by:
+
+Promoting access to reliable information
+
+Reducing misinformation-driven panic
+
+Encouraging responsible digital behavior
+
+Strengthening public trust
+
+👥 Team Members
+
+Yash Karande – Frontend Development, UI/UX Design, System Logic
+
+Madhusudan Chanda – Frontend Development, Research, Documentation
+
+
+
+🔗 Live Deployment
+
+👉 Live Demo: [truthcrew]()
+
+
+👉 Source Code: [TruthCrew](https://github.com/Yash-8055v/TruthCrew)
+
+🧪 Disclaimer
+
+All verification logic, search activity, image analysis, and geographic visualizations are demonstrative mock data, used solely for awareness and educational purposes.
+
+🏁 Conclusion
+
+TruthCrew demonstrates how frontend development combined with responsible AI concepts can address the challenge of misinformation.
+By prioritizing ethics, clarity, accessibility, and strong UI/UX, the platform showcases a trustworthy and impactful digital solution.
+
+📌 Tagline
+
+“In the right moment, the right information can save lives.”
