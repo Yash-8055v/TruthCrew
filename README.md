@@ -132,7 +132,7 @@ Madhusudan Chanda – Frontend Development, Research, Documentation
 
 🔗 Live Deployment
 
-👉 Live Demo: [truthcrew]()
+👉 Live Demo: [truthcrew](https://truth-crew.vercel.app/)
 
 
 👉 Source Code: [TruthCrew](https://github.com/Yash-8055v/TruthCrew)
